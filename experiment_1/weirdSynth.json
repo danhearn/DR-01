@@ -1,0 +1,29 @@
+{
+    "name": "weirdSynth",
+    "som": "seed",
+    "audio": { "channels": 2 },
+    "components": {
+        "basefreq": {
+            "component": "AnalogControl",
+            "pin": 23
+        },
+
+        "modfreq": {
+            "component": "AnalogControl",
+            "pin": 24
+        },
+        "moddepth": {
+            "component": "AnalogControl",
+            "pin": 25
+        },
+        "lpfreq": {
+            "component": "AnalogControl",
+            "pin": 22
+        },
+        "button": {
+            "component": "Switch",
+            "pin": 21
+        }
+        
+    }
+}
