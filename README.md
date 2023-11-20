@@ -9,4 +9,5 @@
   <li><a href="https://github.com/danhearn/DR-01/wiki/User-Manual">User Manual</a></li>
   <li><a href="https://github.com/danhearn/DR-01/wiki/Schematics">Schematics</a></li>
   <li><a href="https://github.com/electro-smith">ElectroSmith github</a></li>
+  <li><a href="https://electro-smith.github.io/DaisySP/annotated.html">DaisySP</a></li>
 </ul>
